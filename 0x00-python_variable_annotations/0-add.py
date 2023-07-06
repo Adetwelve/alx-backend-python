@@ -1,7 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ argument : add function
-    parameter: a, b
-    type: variable annotated
+    parameter : a, b
 """
 
 
